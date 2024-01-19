@@ -3,7 +3,7 @@ This repository hosts a machine learning model for predicting whether SONAR data
 
 ## Dataset
 
-The dataset used for training and testing is [https://www.kaggle.com/datasets/parthdevrani/sonarcsv], containing un-labelled SONAR data samples.
+The dataset used for training and testing is [Kaggle](https://www.kaggle.com/datasets/parthdevrani/sonarcsv), containing un-labelled SONAR data samples.
 You can also get the CSV file in this repository as well.
 
 ## Usage
@@ -11,8 +11,8 @@ You can also get the CSV file in this repository as well.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/NavneetKishanS/rock-or-mine-predicter.git
-   cd sonar-data-classification
+   git clone https://github.com/NavneetKishanS/rock-or-mine-predictor.git
+   cd rock-or-mine-predictor
 2. **Open and Run the Jupyter Notebook:**
   Upload sonar_classification.ipynb to Google Colab.
 Execute notebook cells to train the model and evaluate its performance.
