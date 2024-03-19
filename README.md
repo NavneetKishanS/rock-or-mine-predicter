@@ -1,4 +1,4 @@
-# Rock or Mine Predictor
+# Rock or Mine Predictor🪨
 This repository hosts a machine learning model for predicting whether SONAR data represents a Mine or Rock, implemented in Python using `numpy`, `pandas`, and `scikit-learn` with Logistic Regression.
 
 ## Dataset
